@@ -1,70 +1,42 @@
 <header>
+Introducción a GitHub — Uso Personal para Mis Proyectos
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Este repositorio lo estoy utilizando como espacio personal para aprender GitHub, organizar mis propios proyectos y practicar flujos reales de trabajo con ramas, commits y control de versiones.
 
-# Introducción a GitHub
-
-_Comienza a usar GitHub en menos de una hora._
+Comienza a usar GitHub en menos de una hora.
 
 </header>
+Paso 1: Crear una rama
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+¡Bienvenido a "Introducción a GitHub"! :wave:
 
-## Paso 1: Crear una rama
+¿Qué es GitHub?: GitHub es una plataforma de colaboración que utiliza Git
+ para el control de versiones. GitHub es un lugar popular para compartir y contribuir al software de código abierto
+.
+:tv: Vídeo: ¿Qué es GitHub?
 
-_¡Bienvenido a "Introducción a GitHub"! :wave:_
+¿Qué es un repositorio?: Un repositorio
+ es un proyecto que contiene archivos y carpetas. Un repositorio rastrea versiones de archivos y carpetas. Para más información, consulta "Acerca de los repositorios
+" en la documentación de GitHub.
 
-**¿Qué es GitHub?**: GitHub es una plataforma de colaboración que utiliza _[Git](https://docs.github.com/es/get-started/quickstart/github-glossary#git)_ para el control de versiones. GitHub es un lugar popular para compartir y contribuir al software de [código abierto](https://docs.github.com/es/get-started/quickstart/github-glossary#open-source).
-<br>:tv: [Vídeo: ¿Qué es GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+¿Qué es una rama?: Una rama
+ es una versión paralela de tu repositorio. Por defecto, tu repositorio tiene una rama llamada main y se considera la rama definitiva. Crear ramas adicionales te permite copiar la rama main y hacer cambios de forma segura sin alterar el proyecto principal. Muchas personas usan ramas para trabajar en características específicas sin afectar otras partes del proyecto.
 
-**¿Qué es un repositorio?**: Un _[repositorio](https://docs.github.com/es/get-started/quickstart/github-glossary#repository)_ es un proyecto que contiene archivos y carpetas. Un repositorio rastrea versiones de archivos y carpetas. Para más información, consulta "[Acerca de los repositorios](https://docs.github.com/es/repositories/creating-and-managing-repositories/about-repositories)" en la documentación de GitHub.
+Las ramas te permiten separar tu trabajo de la rama main. En otras palabras, el trabajo de todos está seguro mientras contribuyes. Para más información, consulta "Acerca de las ramas
+".
 
-**¿Qué es una rama?**: Una _[rama](https://docs.github.com/es/get-started/quickstart/github-glossary#branch)_ es una versión paralela de tu repositorio. Por defecto, tu repositorio tiene una rama llamada `main` y se considera la rama definitiva. Crear ramas adicionales te permite copiar la rama `main` de tu repositorio y hacer cambios de forma segura sin alterar el proyecto principal. Muchas personas usan ramas para trabajar en características específicas sin afectar otras partes del proyecto.
+:keyboard: Actividad: Tu primera rama
 
-Las ramas te permiten separar tu trabajo de la rama `main`. En otras palabras, el trabajo de todos está seguro mientras contribuyes. Para más información, consulta "[Acerca de las ramas](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
+Abre una nueva pestaña del navegador y navega a tu repositorio recién creado.
 
-### :keyboard: Actividad: Tu primera rama
+Navega a la pestaña < > Code en el menú de encabezado del repositorio.
 
-1. Abre una nueva pestaña del navegador y navega a tu repositorio recién creado. Luego, trabaja en los pasos en tu segunda pestaña mientras lees las instrucciones en esta.
-2. Navega a la pestaña **< > Code** en el menú de encabezado de tu repositorio.
+Haz clic en el desplegable de la rama main.
 
-   ![pestaña-codigo](/images/code-tab.png)
+En el campo, nombra tu rama my-first-branch.
 
-3. Haz clic en el desplegable de la rama **main**.
+Haz clic en Crear branch: my-first-branch.
 
-   ![desplegable-rama-main](/images/main-branch-dropdown.png)
-
-4. En el campo, nombra tu rama `my-first-branch`. En este caso, el nombre debe ser `my-first-branch` para activar el flujo de trabajo del curso.
-
-5. Haz clic en **Crear branch: my-first-branch** para crear tu rama.
-
-   ![boton-crear-rama](/images/create-branch-button.png)
-
-   La rama cambiará automáticamente a la que acabas de crear.
-   La barra desplegable de la rama **main** reflejará tu nueva rama y mostrará el nuevo nombre de la rama.
-
-6. Espera unos 20 segundos y luego actualiza esta página (la que estás siguiendo las instrucciones). [GitHub Actions](https://docs.github.com/es/actions) se actualizará automáticamente al siguiente paso.
+Espera unos segundos y actualiza esta página. GitHub Actions pasará automáticamente al siguiente paso.
 
 <footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-&copy; 2024 GitHub &bull; Traducción al español de [aastroza](https://github.com/aastroza) &bull; [Código de Conducta](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
